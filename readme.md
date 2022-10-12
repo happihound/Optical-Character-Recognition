@@ -1,5 +1,5 @@
 A basic implementation of tesseract by Hewlett-Packard
-# THIS PROJECT IS NOW DEPRECIATED
+# THIS PROJECT IS NOW [DEPRECIATED](https://github.com/happihound/apexTracking) 
 
 - For this project I wanted to easily extract the names of the people in the kill feed
 - Cut video into frames every 10s (We only need to make 1 frame every 10 sections because that is the timeout on the kill feed.)
